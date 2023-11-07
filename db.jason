@@ -1,0 +1,29 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "Caption": "saadi galli slowed",
+      "cover_img": "https://i.postimg.cc/h4bzrHGg/saadi.jpg",
+      "video_url": "https://www.youtube.com/embed/KhgRfSFRwk0&list=RDKhgRfSFRwk0&start_radio=1?autoplay=1"
+    },
+    {
+      "id": "IjNUbpR",
+      "Caption": "duwhud",
+      "cover_img": "uihiwurw",
+      "video_url": "https://www.youtube.com/embed/tIZAyTi1PZE?autoplay=1"
+    },
+    {
+      "id": "lny2sgqc",
+      "Caption": "adufsdfghdu",
+      "cover_img": "uytytyu",
+      "video_url": "https://www.youtube.com/embed/tIZAyTi1PZE?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "education",
+      "videos": []
+    }
+  ]
+}
